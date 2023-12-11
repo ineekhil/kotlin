@@ -6,6 +6,6 @@ fun main(){
     name = "Dilip Joshi"
     println("After reassign: $name")
 
-    val personName:String = "Aatma Ram Bhide"
+    val personName:String = "Aatma Ram Bhide"   // you cannot do type interfered in val OR you cannot reassigned value
     println(personName)
 }
