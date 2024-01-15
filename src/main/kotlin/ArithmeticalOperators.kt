@@ -7,4 +7,7 @@ fun main(){
     println(a * b) // 50
     println(a / b) // 2
     println(a % b) // 0
+
+
+    print("Khushi Nirmal")
 }
