@@ -8,7 +8,7 @@ fun main(){
     println(a / b) // 2
     println(a % b) // 0
 
-
+//output
     print("Khushi Nirmal")
     print("Live location")
 }
